@@ -1,0 +1,18 @@
+2024-10-14 01:17:24,386 - INFO - Successfully fetched data at offset 0
+2024-10-14 01:17:26,558 - INFO - Successfully fetched data at offset 50
+2024-10-14 01:17:30,083 - INFO - Successfully fetched data at offset 100
+2024-10-14 01:17:32,713 - INFO - Successfully fetched data at offset 150
+2024-10-14 01:17:35,236 - INFO - Successfully fetched data at offset 200
+2024-10-14 01:17:35,527 - INFO - Data saved to new_product_feed.csv after 5 requests.
+2024-10-14 01:17:37,675 - INFO - Successfully fetched data at offset 250
+2024-10-14 01:17:40,921 - INFO - Successfully fetched data at offset 300
+2024-10-14 01:17:43,160 - INFO - Successfully fetched data at offset 350
+2024-10-14 01:17:45,591 - INFO - Successfully fetched data at offset 400
+2024-10-14 01:17:48,496 - INFO - Successfully fetched data at offset 450
+2024-10-14 01:17:48,775 - INFO - Data saved to new_product_feed.csv after 10 requests.
+2024-10-14 01:17:50,936 - INFO - Successfully fetched data at offset 500
+2024-10-14 01:17:53,308 - INFO - Successfully fetched data at offset 550
+2024-10-14 01:17:55,491 - INFO - Successfully fetched data at offset 600
+2024-10-14 01:17:57,661 - INFO - Successfully fetched data at offset 650
+2024-10-14 01:17:57,858 - INFO - No more data found, ending pagination at offset 650
+2024-10-14 01:17:57,865 - INFO - Final data saved to new_product_feed.csv.
